@@ -1,0 +1,19 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VSCode settings (optional to ignore)
+.vscode/
+
+# Mac OS
+.DS_Store
