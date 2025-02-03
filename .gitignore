@@ -17,3 +17,6 @@ build/
 
 # Mac OS
 .DS_Store
+
+# Ignore logs
+*.log
