@@ -20,3 +20,9 @@ build/
 
 # Ignore logs
 *.log
+
+# env 
+.env
+
+#trading
+trading.py

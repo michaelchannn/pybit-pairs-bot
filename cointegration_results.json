@@ -1,0 +1,16 @@
+[
+    {
+        "y": "DOGEUSDT",
+        "x": "PNUTUSDT",
+        "hedge_ratio": 0.07153281099640907,
+        "mean_spread": -1.5072602018747665,
+        "std_spread": 0.00170346430948587
+    },
+    {
+        "y": "DOGEUSDT",
+        "x": "POPCATUSDT",
+        "hedge_ratio": -0.03815444773792365,
+        "mean_spread": -1.678729721151845,
+        "std_spread": 0.0017626341238466032
+    }
+]
